@@ -47,8 +47,10 @@ The dashboard consolidates employee data into interactive visualizations, allowi
 - Geographic Employee Distribution
 - Cross-filtering Between Visualizations
 
-## Project Structure
-HR-Analytics-PowerBI-Dashboard/
+## 📂 Project Structure
+
+```text
+Employee_Workforce_Analytics/
 │
 ├── Dashboard.pbix
 ├── README.md
@@ -58,14 +60,15 @@ HR-Analytics-PowerBI-Dashboard/
 │   └── HR_Dataset.xlsx
 │
 ├── Images/
-│   ├── Overall_Dashboard.png
-│   ├── Admin_Office.png
-│   ├── Engineering.png
-│   ├── Executive_Office.png
-│   ├── IT_IS.png
-│   └── Production.png
+│   ├── Overview_Dashboard.png
+│   ├── Admin_Offices_Dashboard.png
+│   ├── Engineering_Dashboard.png
+│   ├── Executive_Office_Dashboard.png
+│   ├── IT_IS_Dashboard.png
+│   └── Production_Dashboard.png
 │
 └── DAX_Measures.txt
+```
 
 - # Technologies Used
 | Technology | Purpose |

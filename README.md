@@ -104,7 +104,7 @@ Employee_Workforce_Analytics/
 - Faster access to critical HR insights
 - Scalable reporting for organizational growth
 
-- ## Future Improvements
+ ## Future Improvements
 
 - Attrition Analysis
 - Salary Analytics
@@ -113,7 +113,7 @@ Employee_Workforce_Analytics/
 - Diversity & Inclusion Dashboard
 - Predictive HR Analytics
 
-- ## Author
+ ## Author
 
 **Sanober Khatib**
 

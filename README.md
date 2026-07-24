@@ -119,4 +119,4 @@ Employee_Workforce_Analytics/
 
 - GitHub: https://github.com/Khatib-sanober
 - LinkedIn: www.linkedin.com/in/sanober-khatib
-- Email: sanoberkhatib06@gmail.com
+
